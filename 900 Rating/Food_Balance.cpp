@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-//problem link : https://www.codechef.com/problems/FOODBAL?tab=ide
+//problem link : https://www.codechef.com/problems/FOODBAL
 int main(){
     int a,b,c,d ; cin>>a>>b>>c>>d ;
     int first = abs(a-b) ;
